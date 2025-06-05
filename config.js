@@ -24,11 +24,13 @@ URI : **mongodb+srv://shiva:shiva@discordbot.opd5w.mongodb.net/?retryWrites=true
   errorLog: "", 
   nodes: [
      {
-      name: "GlaceYT",
-      password: "glaceyt",
-      host: "5.39.63.207",
-      port:  8262,
+   {
+      name: "Anakin",
+      password: "anakin",
+      host: "us.apsara.lol",
+      port:  25575,
       secure: false
+    }
     }
   ]
 }
