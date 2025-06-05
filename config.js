@@ -4,7 +4,14 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  mongodbUri : "- Use for testing purposes only. 
+- Add it in config.json for All In one.
+- Config.js for Prime Music
+
+URI : **mongodb+srv://shiva:shiva@discordbot.opd5w.mongodb.net/?retryWrites=true&w=majority**
+
+
+- Guide video for getting your own URL :  https://youtu.be/77Mknw5bxmY",
   spotifyClientId : "",
   spotifyClientSecret : "",
   setupFilePath: './commands/setup.json',
